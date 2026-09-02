@@ -127,12 +127,11 @@ A real-time hospital queue management system designed to help patients track doc
 </picture>
 
 <p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=Maidul-057&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
+ <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maidul-057&theme=github"
   alt="Maidul Islam GitHub Stats"
   height="180"
 />
-
   <img
     src="./profile/top-langs.svg"
     alt="Top Languages"
