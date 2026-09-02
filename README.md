@@ -111,7 +111,7 @@ A real-time hospital queue management system designed to help patients track doc
 
 🔗 **Live Demo:** [View Project](https://serialtrack-iota.vercel.app/)
 
-🔗 **Repository:** [View Repository](https://github.com/Maidul-057/serialtrack))
+🔗 **Repository:** [View Repository](https://github.com/Maidul-057/serialtrack)
 
 ---
 
@@ -127,15 +127,15 @@ A real-time hospital queue management system designed to help patients track doc
 </picture>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maidul-057&show_icons=true&theme=default&hide_border=true"
-    alt="Maidul Islam GitHub Stats"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maidul-057&show_icons=true&theme=transparent&hide_border=true"
+    alt="Maidul's GitHub stats"
     height="180"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=maidul-057&show_icons=true&locale=en&layout=compact&hide_border=true"
-    alt="Top Languages"
+ <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maidul-057&layout=compact&theme=transparent&hide_border=true"
+    alt="Top languages"
     height="180"
   />
 </p>
